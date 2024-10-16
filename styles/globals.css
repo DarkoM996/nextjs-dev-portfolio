@@ -8,6 +8,9 @@
     @apply text-black;
     @apply bg-neutral-100;
   }
+  :root {
+    --radius: 0.5rem;
+  }
 }
 
 html,
