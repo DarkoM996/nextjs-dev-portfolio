@@ -46,6 +46,14 @@ const ProjectSection = () => {
               className="w-full h-full object-cover rounded-3xl hover:scale-90 duration-500 transition-transform"
             />
           </Link>
+          <div className="flex flex-col justify-center items-center p-4 gap-2">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-800">
+              TravelLife
+            </h4>
+            <p className="text-xl font-light text-primary_customGray-700">
+              Travel Website Landing Page
+            </p>
+          </div>
         </div>
       </div>
     </section>
