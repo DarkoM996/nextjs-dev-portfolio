@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="flex flex-col justify-center items-start w-full h-full">
         {/* Working Title */}
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
-          Web Development with a focus on the Front End and React
+          Web Development With A Focus On The Front End And React.js
         </h1>
       </div>
     </main>
