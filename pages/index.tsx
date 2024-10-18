@@ -5,10 +5,10 @@ const index = () => {
   return (
     <main>
       {/* Head can be defined also in document.tsx and the meta title can still stand for the homepage too */}
-      {/* <Head>
-        <title>Darko</title>
+      <Head>
+        <title>Darko | Front End Developer</title>
         <meta />
-      </Head> */}
+      </Head>
     </main>
   );
 };
