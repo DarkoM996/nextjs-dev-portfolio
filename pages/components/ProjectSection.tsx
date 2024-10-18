@@ -55,6 +55,13 @@ const ProjectSection = () => {
             </p>
           </div>
         </div>
+        {/* Project 3 */}
+        <div className="flex flex-col justify-center items-start gap-4 mb-40">
+          <Link
+            href="/projects/coffeebar"
+            className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
+          ></Link>
+        </div>
       </div>
     </section>
   );
