@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import Hero from "./components/Hero";
 
 const index = () => {
   return (
@@ -9,6 +10,7 @@ const index = () => {
         <title>Darko | Front End Developer</title>
         <meta />
       </Head>
+      <Hero />
     </main>
   );
 };
