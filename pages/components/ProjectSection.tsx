@@ -15,13 +15,13 @@ const ProjectSection = () => {
         <div className="flex flex-col justify-center items-center gap-4 mb-40">
           <Link
             href="/projects/furnico"
-            className="relative w-full h-[420px] md:h-[720px]"
+            className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
           >
             <Image
               priority={true}
               src={picture1}
               alt="project image 1"
-              className="w-full h-full object-cover rounded-3xl hover:scale-90 duration-500 transition-transform"
+              className="w-full h-full object-cover rounded-3xl hover:scale-90 duration-500 transition-transform "
             />
           </Link>
           <div className="flex flex-col justify-center items-center p-4 gap-2">
@@ -37,7 +37,7 @@ const ProjectSection = () => {
         <div className="flex flex-col justify-center items-center gap-4">
           <Link
             href="/projects/travellife"
-            className="relative w-full h-[420px] md:h-[720px]"
+            className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
           >
             <Image
               priority={true}
