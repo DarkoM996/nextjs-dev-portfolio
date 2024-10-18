@@ -56,11 +56,26 @@ const ProjectSection = () => {
           </div>
         </div>
         {/* Project 3 */}
-        <div className="flex flex-col justify-center items-start gap-4 mb-40">
+        <div className="flex flex-col justify-center items-center gap-4 md:mb-36">
           <Link
             href="/projects/coffeebar"
             className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
-          ></Link>
+          >
+            <Image
+              priority={true}
+              src={picture3}
+              alt="project image 3"
+              className="w-full h-full object-cover rounded-3xl hover:scale-90 duration-500 transition-transform"
+            />
+          </Link>
+          <div className="flex flex-col justify-center items-center gap-2">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-700">
+              SneakerHead
+            </h4>
+            <p className="text-xl font-light text-primary_customGray-700">
+              Travel Website Landing Page
+            </p>
+          </div>
         </div>
       </div>
     </section>
