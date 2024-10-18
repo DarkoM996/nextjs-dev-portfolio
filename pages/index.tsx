@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Hero from "./components/Hero";
+import ProjectSection from "./components/ProjectSection";
 
 const index = () => {
   return (
@@ -11,6 +12,7 @@ const index = () => {
         <meta />
       </Head>
       <Hero />
+      <ProjectSection />
     </main>
   );
 };
