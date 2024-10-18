@@ -1,5 +1,6 @@
 import Image from "next/image";
 import picture1 from "../../public/images/furniturewebsite-featured-pic(optimized)-2.4.jpg";
+import picture2 from "../../public/images/travel-landing-page-featured-pic-(optimized)-2.1.jpg";
 import React from "react";
 
 const ProjectSection = () => {
@@ -14,6 +15,13 @@ const ProjectSection = () => {
           className="object-cover w-full h-full rounded-3xl"
         />
       </div>
+      {/* Image 2 */}
+      <Image
+        priority={true}
+        src={picture2}
+        alt="project image 2"
+        className="object-cover w-full h-full rounded-3xl"
+      />
     </section>
   );
 };
