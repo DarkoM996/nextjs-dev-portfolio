@@ -1,13 +1,15 @@
 import React from "react";
-import { Head } from "next/document";
+import Head from "next/head";
 
 const index = () => {
   return (
-    <>
-      <div>
-        <h3>Some title </h3>
-      </div>
-    </>
+    <main>
+      {/* Head can be defined also in document.tsx and the meta title can still stand for the homepage too */}
+      {/* <Head>
+        <title>Darko</title>
+        <meta />
+      </Head> */}
+    </main>
   );
 };
 
