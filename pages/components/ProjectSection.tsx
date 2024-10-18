@@ -16,12 +16,14 @@ const ProjectSection = () => {
         />
       </div>
       {/* Image 2 */}
-      <Image
-        priority={true}
-        src={picture2}
-        alt="project image 2"
-        className="object-cover w-full h-full rounded-3xl"
-      />
+      <div className="relative w-full h-[520px] md:h-[720px] py-12">
+        <Image
+          priority={true}
+          src={picture2}
+          alt="project image 2"
+          className="object-cover w-full h-full rounded-3xl"
+        />
+      </div>
     </section>
   );
 };
