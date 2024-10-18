@@ -1,10 +1,13 @@
 import React from "react";
+import { Head } from "next/document";
 
 const index = () => {
   return (
-    <div className="text-5xl font-bold">
-      Hello From The Developer Portfolio!
-    </div>
+    <>
+      <div>
+        <h3>Some title </h3>
+      </div>
+    </>
   );
 };
 
