@@ -12,7 +12,7 @@ const ProjectSection = () => {
     <section className="max-w-screen-3xl mx-auto w-full min-h-screen relative px-6 py-4 lg:px-32">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-24">
         {/* Project 1 */}
-        <div className="flex flex-col justify-center items-center gap-4 mb-40">
+        <div className="flex flex-col justify-center items-center gap-4 md:mb-40">
           <Link
             href="/projects/furnico"
             className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
