@@ -2,6 +2,7 @@ import React from "react";
 import Head from "next/head";
 import Hero from "./components/Hero";
 import ProjectSection from "./components/ProjectSection";
+import AboutSection from "./components/AboutSection";
 
 const index = () => {
   return (
@@ -13,6 +14,7 @@ const index = () => {
       </Head>
       <Hero />
       <ProjectSection />
+      <AboutSection />
     </main>
   );
 };
