@@ -3,7 +3,7 @@ import { FaBehance, FaDribbble, FaGithub, FaLinkedinIn } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="max-w-screen-3xl mx-auto w-full h-full relative px-6 py-4 lg:px-32">
+    <div className="max-w-screen-2xl mx-auto w-full h-full relative px-6 py-4">
       <div className="flex flex-col md:flex-row justify-between items-center gap-6">
         <p className="text-primary_customGray-700">&copy; Darko Mihajlovski</p>
         {/* Icons with links pointing out to socials */}
