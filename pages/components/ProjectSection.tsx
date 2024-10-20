@@ -3,7 +3,7 @@ import picture1 from "../../public/images/furniturewebsite-featured-pic(optimize
 import picture2 from "../../public/images/travel-landing-page-featured-pic-(optimized)-2.1.jpg";
 import picture3 from "../../public/images/sneaker-head-featured-pic-(optimized)-2.5.jpg";
 import picture4 from "../../public/images/coffee-bar-concept-version-2.0-volume-2.3.jpg";
-import picture5 from "../../public/images/sneaker-head-featured-pic-(optimized)-2.5.jpg";
+import picture5 from "../../public/images/mockup-for-food-app-4.jpg";
 import React from "react";
 import Link from "next/link";
 
