@@ -7,6 +7,7 @@ import CoffeeBarImages from "../project-components/coffeebar/CoffeeBarImages";
 const coffeebar = () => {
   return (
     <>
+      {/* This can be defined at the document.js/ts level but I like doing this way as well */}
       <Head>
         <title>Darko | Front End Developer</title>
       </Head>
