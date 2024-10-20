@@ -3,6 +3,7 @@ import Head from "next/head";
 import Hero from "./components/Hero";
 import ProjectSection from "./components/ProjectSection";
 import AboutSection from "./components/AboutSection";
+import Footer from "./components/Footer";
 
 const index = () => {
   return (
@@ -15,6 +16,7 @@ const index = () => {
       <Hero />
       <ProjectSection />
       <AboutSection />
+      <Footer />
     </main>
   );
 };
