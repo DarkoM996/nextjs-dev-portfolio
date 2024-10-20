@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import TheTomatoHero from "../project-components/thetomato/TheTomatoHero";
 
 const thetomato = () => {
   return (
@@ -8,6 +9,7 @@ const thetomato = () => {
         <title>Darko | Front End Developer</title>
         <meta />
       </Head>
+      <TheTomatoHero />
     </>
   );
 };
