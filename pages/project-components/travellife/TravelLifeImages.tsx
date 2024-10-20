@@ -1,12 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import picture1 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
-import picture2 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.1.jpg";
-import picture3 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
-import picture4 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
+import picture1 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.1.jpg";
+import picture2 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
+import picture3 from "../../../public/images/travel-landing-page-mockup-1.6.jpg";
+import picture4 from "../../../public/images/travel-landing-page-mockup-1.5.jpg";
 import picture5 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
-import picture6 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
-import picture7 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.0.jpg";
+import picture6 from "../../../public/images/travel-landing-page-featured-pic-(optimized)-2.1.jpg";
+import picture7 from "../../../public/images/travel-landing-page-mockup-1.6.jpg";
 
 const TravelLifeImages = () => {
   return (
