@@ -50,10 +50,10 @@ const AboutText = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xl text-primary_customGray-900">
           <p>Front-End</p>
           <p>Web Design</p>
-          <p>User Experience Design</p>
+          <p>Back-End</p>
           <p>End-to-end Product Design</p>
           <p>Interaction Design</p>
-          <p>Motion Design</p>
+          <p>User Experience Design</p>
           <p>Interface Design</p>
           <p>Design Systems</p>
         </div>
