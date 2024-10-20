@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import backgroundimage from "../../public/images/client-construction-website-mockup-v-1.4.jpg";
+import backgroundimage from "../../public/images/client-construction-website-mockup-v-1.3.jpg";
 
 const AboutText = () => {
   return (
