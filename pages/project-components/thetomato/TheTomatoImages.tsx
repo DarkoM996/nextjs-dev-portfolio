@@ -1,12 +1,12 @@
 import React from "react";
 import Image from "next/image";
-import picture1 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.1.jpg";
-import picture2 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.2.jpg";
-import picture3 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.3.jpg";
-import picture4 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.4.jpg";
-import picture5 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.5.jpg";
-import picture6 from "../../../public/images/sneake-head-featured-pic-(optimized)-2.0.jpg";
-import picture7 from "../../../public/images/sneaker-head-featured-pic-(optimized)-2.5.jpg";
+import picture1 from "../../../public/images/mockup-for-food-app-4.jpg";
+import picture2 from "../../../public/images/mockup-for-food-app-4a.jpg";
+import picture3 from "../../../public/images/food-web-app-featured-pic-(optimized)-2.0.jpg";
+import picture4 from "../../../public/images/food-web-app-featured-pic-(optimized)-2.3.jpg";
+import picture5 from "../../../public/images//mockup-for-food-app-4.jpg";
+import picture6 from "../../../public/images/food-web-app-featured-pic-(optimized)-2.1.jpg";
+import picture7 from "../../../public/images/food-order-web-app-featured-mockup.jpg";
 
 const TheTomatoImages = () => {
   return (
