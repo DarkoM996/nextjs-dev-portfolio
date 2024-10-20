@@ -56,7 +56,7 @@ const ProjectSection = () => {
         {/* Project 3 */}
         <div className="flex flex-col justify-center items-center gap-4 md:mb-36">
           <Link
-            href="/projects/coffeebar"
+            href="/projects/sneakerhead"
             className="relative w-full h-[420px] md:h-[720px] lg:h-[920px]"
           >
             <Image
