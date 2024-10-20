@@ -7,27 +7,33 @@ const AboutText = () => {
     <div className="max-w-screen-md mx-auto w-full h-full relative  flex flex-col justify-center items-start gap-6 px-6 py-8">
       {/* Paragraphs that give explanations */}
       <p className="text-xl text-black font-light ">
-        I am Darko Mihajlovski, a creative developer and designer based out of
-        Kumanovo, North Macedonia. I help companies and brands create beautiful
-        and timeless expressions for the web while pushing for ever increasing
-        quality of work.
+        I am Darko Mihajlovski, a web developer with main focus on front end
+        development and React in general based out of Kumanovo. I enjoy bringing
+        high quality designs to life in the browser by building high quality and
+        aestistically pleasing web apps and websites.
       </p>
       <p className="text-xl text-black font-light ">
-        I build websites and web apps that focus on clean and minimalistic
-        design. My focus is on clean and minimalistic design with focus on well
-        placed animations, transitions as well as interaction.
+        I build web apps and websites that focus on clean, minimalistic and user
+        friendly design. I utilize React.js as well as tools like Tailwind CSS,
+        Scss etc to make this possible at a high quality level.
       </p>
       <p className="text-xl text-black font-light ">
-        From marketing websites that inspire, to e-commerce that convinces and
-        web apps that are truly beneficial. All while focusing on clean and
-        minimalistic design to deliver use friendly designs for the web.
+        From ecommerce that inspire, to e-commerce web apps, dashboards etc that
+        convince and are truly beneficial. All while focusing on building and
+        delivering high quaity as well as beautiful experiences for and on the
+        web.
       </p>
       <p className="text-xl text-black font-light ">
-        With my knowledge as a digital designer, I make sure that a visual
-        identity can be used throughout all digital touchpoints in an accessible
-        and user-friendly way. I build scalable websites from scratch that fit
-        seamlessly with design. My focus is on clean and minimalistic design
-        with carefully placed animations as well as transitions
+        One aspect that makes me stand out as a front end developer is my
+        passion and understanding of design. I design all my websites and web
+        apps from scratch thanks to my knowledge of tools like Figma and
+        Photoshop.
+      </p>
+      <p className="text-xl text-black font-light ">
+        Additionally, I have worked with design component libraries such as
+        Shadcn which make building design systems and bringing them in the web a
+        seamless process. This allows to me understand when and where design
+        requirements can be pushed or stopped depending on the case.
       </p>
 
       {/* Image that can be changed  */}
