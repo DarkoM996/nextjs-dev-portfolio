@@ -2,6 +2,7 @@ import React from "react";
 import Head from "next/head";
 import SneakerHeadHero from "../project-components/sneakerhead/SneakerHeadHero";
 import SneakerHeadText from "../project-components/sneakerhead/SneakerHeadText";
+import SneakerHeadImages from "../project-components/sneakerhead/SneakerHeadImages";
 
 const sneakerhead = () => {
   return (
@@ -12,6 +13,7 @@ const sneakerhead = () => {
       </Head>
       <SneakerHeadHero />
       <SneakerHeadText />
+      <SneakerHeadImages />
     </>
   );
 };
