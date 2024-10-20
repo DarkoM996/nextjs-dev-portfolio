@@ -13,7 +13,13 @@ const CTA = () => {
           hello! Currently seeking new opportunities.
         </p>
         <div className="flex flex-col justify-start items-start gap-2">
-          <a href="/" className="text-black font-medium text-xl">
+          <a
+            href="/"
+            onClick={() =>
+              (window.location.href = "mailto:darko.mihajlovski96@gmail.com")
+            }
+            className="text-black font-medium text-xl"
+          >
             darko.mihajlovski96@gmail.com
           </a>
           <a href="/">LinkedIn</a>
