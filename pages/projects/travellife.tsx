@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import TravelLifeHero from "../project-components/travellife/TravelLifeHero";
+import TravelLifeText from "../project-components/travellife/TravelLifeText";
 
 const travellife = () => {
   return (
@@ -10,6 +11,7 @@ const travellife = () => {
         <meta />
       </Head>
       <TravelLifeHero />
+      <TravelLifeText />
     </>
   );
 };
