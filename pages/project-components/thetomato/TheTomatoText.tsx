@@ -11,12 +11,10 @@ const TheTomatoText = () => {
         sizes.
       </p>
       <p className="text-xl leading-normal text-neutral-900  ">
-        I approached this project by utilizing the brand's primary color and
-        just adding a tint of it in the grays as well as the whites for
-        consistency. The font of choice for the typography was Work Sans, which
-        had the needed several font weights which were needed for this project.
-        The focus of this project was to practice and improve general UI skills
-        for dashboards.
+        This part of an upcoming web development project that will be developed
+        in the near future where React with either Tailwind CSS or SCSS will be
+        utilized to make this happen. For now, enjoy the preview of the concept
+        with these designs that I made using Figma and Photoshop.
       </p>
     </section>
   );
