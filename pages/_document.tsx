@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <title>Darko | Front End Developer </title>
-      <body className="antialiased">
+      <body className="antialiased h-screen">
         <Navbar />
         <Main />
         <NextScript />
