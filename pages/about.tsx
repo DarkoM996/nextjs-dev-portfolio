@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 const about = () => {
   return (
-    <>
+    <main className="bg-primary_backgroundLighterColor-50 dark:bg-primary_backgroundDarkerColor-950">
       <Head>
         <title>Darko | Front End Developer</title>
         <meta />
@@ -16,7 +16,7 @@ const about = () => {
       <AboutText />
       <CTA />
       <Footer />
-    </>
+    </main>
   );
 };
 

@@ -3,5 +3,9 @@ import type { AppProps } from "next/app";
 import { ThemeProvider } from "next-themes";
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />;
+  return (
+    <ThemeProvider forcedTheme={Component.theme || undefined} attribute="class">
+      <Component {...pageProps} />
+    </ThemeProvider>
+  );
 }
