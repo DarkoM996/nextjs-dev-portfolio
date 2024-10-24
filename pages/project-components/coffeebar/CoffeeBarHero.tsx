@@ -7,7 +7,7 @@ const CoffeeBarHero = () => {
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
           CoffeeBar
         </h1>
-        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600">
+        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600 dark:text-primary_customGray-200">
           CoffeeBar is a UX UI Design case study about a coffee bar where people
           can enjoy their favorite cup of coffee in a relaxing atmosphere that
           tests an innovative concept.

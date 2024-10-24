@@ -47,7 +47,7 @@ const AboutText = () => {
       {/* Section about technologies used with icons from react icons */}
       <div className="max-w-screen-md mx-auto w-full h-full relative py-4 dark:text-primary_backgroundLighterColor-500">
         <h2 className="text-3xl md:text-4xl lg:text-5xl py-10">Disciplines</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xl text-primary_customGray-900">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xl text-primary_customGray-900 dark:text-primary_customGray-500">
           <p>Front-End</p>
           <p>Web Design</p>
           <p>Back-End</p>

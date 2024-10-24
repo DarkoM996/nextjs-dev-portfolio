@@ -7,7 +7,7 @@ const FurnicoHero = () => {
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
           Furnico Web App
         </h1>
-        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600">
+        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600 dark:text-primary_customGray-200">
           Furnico is an ecommerce web app that relies on clean and minimalistic
           design with a brown color palette to create a warm and cozy feeling
           when the user is on the website.

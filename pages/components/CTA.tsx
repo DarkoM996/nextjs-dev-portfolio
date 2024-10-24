@@ -8,7 +8,7 @@ const CTA = () => {
       </h2>
       {/* Text + Link */}
       <div className="flex flex-col justify-between items-start gap-10 py-12">
-        <p className="text-2xl text-primary_customGray-900">
+        <p className="text-2xl text-primary_customGray-900 dark:text-primary_customGray-500">
           Feel free to reach out for projects, collaborations, or just to say
           hello! Currently seeking new opportunities.
         </p>
@@ -18,7 +18,7 @@ const CTA = () => {
             onClick={() =>
               (window.location.href = "mailto:darko.mihajlovski96@gmail.com")
             }
-            className="text-black font-medium text-xl"
+            className="text-black dark:text-primary_backgroundLighterColor-500 font-medium text-xl"
           >
             darko.mihajlovski96@gmail.com
           </a>

@@ -25,8 +25,10 @@ const ProjectSection = () => {
             />
           </Link>
           <div className="flex flex-col justify-center items-center p-4 gap-2">
-            <h4 className="text-2xl font-semibold text-neutral-900">Furnico</h4>
-            <p className="text-xl font-light text-neutral-700">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-950 dark:text-primary_backgroundLighterColor-500">
+              Furnico
+            </h4>
+            <p className="text-xl font-light text-primary_customGray-400">
               Ecommerce Full Stack Web App
             </p>
           </div>
@@ -45,10 +47,10 @@ const ProjectSection = () => {
             />
           </Link>
           <div className="flex flex-col justify-center items-center p-4 gap-2">
-            <h4 className="text-2xl font-semibold text-neutral-900">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-950 dark:text-primary_backgroundLighterColor-500">
               TravelLife
             </h4>
-            <p className="text-xl font-light text-neutral-700">
+            <p className="text-xl font-light text-primary_customGray-400">
               Travel Website Landing Page
             </p>
           </div>
@@ -67,10 +69,10 @@ const ProjectSection = () => {
             />
           </Link>
           <div className="flex flex-col justify-center items-center gap-2">
-            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-700">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-950 dark:text-primary_backgroundLighterColor-500">
               SneakerHead
             </h4>
-            <p className="text-xl font-light text-neutral-700">
+            <p className="text-xl font-light text-primary_customGray-400">
               Travel Website Landing Page
             </p>
           </div>
@@ -89,10 +91,12 @@ const ProjectSection = () => {
             />
           </Link>
           <div className="flex flex-col justify-center items-center gap-2">
-            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-700">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-950 dark:text-primary_backgroundLighterColor-500">
               The Tomato
             </h4>
-            <p className="text-xl font-light text-neutral-700">Food Web App</p>
+            <p className="text-xl font-light text-primary_customGray-400">
+              Food Web App
+            </p>
           </div>
         </div>
         {/* Project 5 */}
@@ -109,10 +113,12 @@ const ProjectSection = () => {
             />
           </Link>
           <div className="flex flex-col justify-center items-center p-4 gap-2">
-            <h4 className="text-2xl font-semibold text-neutral-900">
+            <h4 className="text-2xl font-semibold text-primary_backgroundDarkerColor-950 dark:text-primary_backgroundLighterColor-500">
               The Tomato
             </h4>
-            <p className="text-xl font-light text-neutral-700">Food Web App</p>
+            <p className="text-xl font-light text-primary_customGray-400">
+              Food Web App
+            </p>
           </div>
         </div>
       </div>

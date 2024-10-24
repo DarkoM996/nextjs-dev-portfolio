@@ -8,7 +8,7 @@ const AboutSection = () => {
         {/* Small paragraph section */}
         <div className="flex flex-col justify-center items-start gap-4">
           {/* This text needs reworking */}
-          <p className="w-full text-xl text-neutral-800">
+          <p className="w-full text-xl text-primary_customGray-800  dark:text-primary_customGray-500">
             I am Darko Mihajlovski, a creative developer and designer based out
             of Kumanovo, North Macedonia. I help companies and brands with
             specific solutions while focusing on taking my work to the next
@@ -24,7 +24,7 @@ const AboutSection = () => {
         </div>
         {/* Get in touch section */}
         <div className="flex flex-col justify-center items-start gap-2 w-full h-full">
-          <p className="text-base text-primary_customGray-800 w-full h-fit text-left">
+          <p className="text-base text-primary_customGray-800  dark:text-primary_customGray-500 w-full h-fit text-left">
             Get in touch
           </p>
           {/* Add a link pointing towards the email */}

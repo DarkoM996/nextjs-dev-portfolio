@@ -7,7 +7,7 @@ const SneakerHeadHero = () => {
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
           SneakerHead
         </h1>
-        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600">
+        <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600 dark:text-primary_customGray-200">
           SneakerHead is a full stack ecommerce web app. The brand's primary
           goal is to bring a collection of the best sneakers from the world's
           top sneaker brands available to their customers while providing the
