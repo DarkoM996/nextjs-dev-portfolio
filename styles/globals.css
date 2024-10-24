@@ -5,8 +5,8 @@
 @layer base {
   body {
     @apply font-sans;
-    @apply text-black;
-    @apply bg-primary_backgroundLighterColor-50;
+    @apply text-black dark:text-white;
+    @apply bg-primary_backgroundLighterColor-50 dark:bg-primary_backgroundDarkerColor-950;
   }
   :root {
     --radius: 0.5rem;
