@@ -25,13 +25,13 @@ const Hero = () => {
         {/* Working Title */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold">
           Web Development. Front End. React. Design Systems & More
+          <button
+            className="absolute bottom-0 right-0 mr-6 mb-6 hover:underline text-xl p-4 bg-black text-white rounded-full"
+            onClick={toggleTheme}
+          >
+            Cool Effect
+          </button>
         </h1>
-        <button
-          className="fixed bottom-0 right-0 hover:underline text-2xl p-2"
-          onClick={toggleTheme}
-        >
-          Cool Effect
-        </button>
       </div>
     </main>
   );
