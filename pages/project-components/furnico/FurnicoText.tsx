@@ -6,7 +6,7 @@ const FurnicoText = () => {
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         Furnico is an ecommerce full stack web app that I designed in Figma and
         for which I made mockups in Photoshop as well. I decided to turn this
-        project into a full stack ecommerce web app that I'm building in Mongo
+        project into a full stack ecommerce web app that I`m building in Mongo
         DB, Express, React and Node.Js aka the famous MERN stack. The process is
         well underway but today, the case study will talk about the design and
         the decisions relating to this process.

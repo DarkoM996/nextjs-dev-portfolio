@@ -8,8 +8,8 @@ const TheTomatoHero = () => {
           TheTomato
         </h1>
         <h3 className="text-2xl md:text-3xl font-medium text-primary_backgroundDarkerColor-600 dark:text-primary_customGray-200">
-          The Tomato is a food web app that's designed to be easy to use with a
-          clean and minimalistic design. The brand's goals are to make ordering
+          The Tomato is a food web app that is designed to be easy to use with a
+          clean and minimalistic design. The brand goals are to make ordering
           food an enjoyable and seamless process.
         </h3>
       </div>

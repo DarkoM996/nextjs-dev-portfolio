@@ -7,13 +7,13 @@ const SneakerHeadText = () => {
         SneakerHead is an ecommerce web app that aims to bring high quality
         sneaker collections to its users. The web app was designed with a brown
         color palette and an open source sans serif typeface to create a high
-        end web app that's visually stunning and easy to use.
+        end web app that is visually stunning and easy to use.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         The design process was executed in Figma with the mockups that you are
         seeing below done in Photoshop. The goals of this design are to stand
-        out from the competition with a visually stunning web app that's easy to
-        use.
+        out from the competition with a visually stunning web app that is easy
+        to use.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         The development process to bring this to the web will be likely done in
