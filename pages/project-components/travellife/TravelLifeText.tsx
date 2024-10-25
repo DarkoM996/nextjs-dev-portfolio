@@ -34,7 +34,7 @@ const TravelLifeText = () => {
         the overall experience as long as they are carefully made and used. Feel
         free to check out the final landing page on the web on the link below
       </p>
-      <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500   ">
+      <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         The landing page was a great project to enhance and develop web
         development as well web design skills in general. It showed me the power
         of Tailwind and JSX, which made building a prototype in React super easy
@@ -42,7 +42,7 @@ const TravelLifeText = () => {
         animations don't have to be complicated nor overdone to be effective and
         to add to the landing page.
       </p>
-      <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500   ">
+      <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         <a
           href="https://travel-life-web.netlify.app/"
           className="text-black hover:underline"
