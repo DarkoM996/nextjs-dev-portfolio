@@ -22,7 +22,9 @@ const CTA = () => {
           >
             darko.mihajlovski96@gmail.com
           </a>
-          <a href="/">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/darko-mihajlovski-1bb4701b7">
+            LinkedIn
+          </a>
         </div>
       </div>
     </section>
