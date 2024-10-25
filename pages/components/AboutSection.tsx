@@ -30,7 +30,7 @@ const AboutSection = () => {
           {/* Add a link pointing towards the email */}
           <div className="flex flex-col justify-center items-start w-full h-full">
             <a
-              href="#"
+              href="https://dribbble.com/DarkoM_0-10"
               onClick={() =>
                 (window.location.href = "mailto:darko.mihajlovski96@gmail.com")
               }
