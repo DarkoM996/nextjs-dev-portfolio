@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import ThemeButtonSwitch from "./ThemeButtonSwitch";
 
 const Hero = () => {
   useEffect(() => {
