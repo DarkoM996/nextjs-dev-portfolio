@@ -12,7 +12,7 @@ const CoffeeBarText = () => {
         and drink on the go, at the shop or even home? And thus I began to work
         on this case study, calling it: CoffeeBar.
       </p>
-      <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500  ">
+      <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500">
         Initially I decided to hit Google as a starting point just so I could
         get some form of secondary research that'd would get me some starting
         information on the local shops. The data that I gathered showed a
@@ -22,7 +22,7 @@ const CoffeeBarText = () => {
         from people who were scepticals to the ones that embraced. How much was
         the question?
       </p>
-      <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500  ">
+      <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500">
         Initial research was needed to better understand the users' needs
         related to coffee drinking and to better understand the coffee drinking
         culture within my city.I made a mini questionare of several questions
