@@ -14,7 +14,7 @@ const TravelLifeText = () => {
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         My role here was to design a captivating travel website that is modern,
         easy to use and captures the attention of the use while showcasing the
-        brand's goals. To do so, I relied on a simple black color palette with
+        brand`s goals. To do so, I relied on a simple black color palette with
         clean typography, clean layout and few but well placed animations to
         showcase some personality.
       </p>
@@ -24,7 +24,7 @@ const TravelLifeText = () => {
         project to the web, I used React, Tailwind CSS and a little bit of
         Framer Motion. Tailwind allows for true web design and makes the process
         seamless. It shines so much that it offers advantages for futher design
-        exploration that design tools like Figma can't do at the moment.
+        exploration that design tools like Figma can`t do at the moment.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         The front end was built with React. Routing was done with the React
@@ -39,7 +39,7 @@ const TravelLifeText = () => {
         development as well web design skills in general. It showed me the power
         of Tailwind and JSX, which made building a prototype in React super easy
         yet so nice. Additionally, the usage of Framer Motion showed that
-        animations don't have to be complicated nor overdone to be effective and
+        animations don`t have to be complicated nor overdone to be effective and
         to add to the landing page.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">

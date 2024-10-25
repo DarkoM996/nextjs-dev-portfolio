@@ -1,5 +1,4 @@
 import React from "react";
-/* eslint react/no-unescaped-entities */
 
 const CoffeeBarText = () => {
   return (

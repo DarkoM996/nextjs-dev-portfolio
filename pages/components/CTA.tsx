@@ -14,7 +14,7 @@ const CTA = () => {
         </p>
         <div className="flex flex-col justify-start items-start gap-2">
           <a
-            href="/"
+            href="https://www.linkedin.com/in/darko-mihajlovski-1bb4701b7"
             onClick={() =>
               (window.location.href = "mailto:darko.mihajlovski96@gmail.com")
             }
