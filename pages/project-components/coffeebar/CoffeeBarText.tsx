@@ -14,7 +14,7 @@ const CoffeeBarText = () => {
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500">
         Initially I decided to hit Google as a starting point just so I could
-        get some form of secondary research that'd would get me some starting
+        get some form of secondary research that would get me some starting
         information on the local shops. The data that I gathered showed a
         decrease of 90% profit and in some cases, even higher. On the other
         hand, the e-commerce association in Macedonia showed a major improvement
@@ -23,12 +23,12 @@ const CoffeeBarText = () => {
         the question?
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900 dark:text-primary_customGray-500">
-        Initial research was needed to better understand the users' needs
-        related to coffee drinking and to better understand the coffee drinking
-        culture within my city.I made a mini questionare of several questions
-        and sent it out to several close people who were all between the target
-        ages of 22-34 ages with the income and professions that would respond
-        positively to this idea.
+        Initial research was needed to better understand the user needs related
+        to coffee drinking and to better understand the coffee drinking culture
+        within my city.I made a mini questionare of several questions and sent
+        it out to several close people who were all between the target ages of
+        22-34 ages with the income and professions that would respond positively
+        to this idea.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         A series of in person interviews were then conducted on 6 participants
@@ -46,15 +46,15 @@ const CoffeeBarText = () => {
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         Ultimately the coffee drinking culture in Macedonia as well as the
-        Balkans is unique. It's social importance is even greater than I
-        realized as majority of the coffee drinkers enjoy a cup of coffee in a
-        coffee bar for more reasons than just the coffee such as companionship,
-        quality time with a loved one etc.
+        Balkans is unique. Its social importance is even greater than I realized
+        as majority of the coffee drinkers enjoy a cup of coffee in a coffee bar
+        for more reasons than just the coffee such as companionship, quality
+        time with a loved one etc.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
         There were some signs of a potential investment, but that'd be at least
         a decade away if not more. One option would be to offer a way to book a
-        table at a customer's specific wanted time etc. Overall duo to unique
+        table at a customer specific wanted time etc. Overall duo to unique
         coffee drinking culture, expensive distruction and just not enough
         interest, the Starbucks like business method is not profitable at the
         moment. Here are the designs that I came up with.
