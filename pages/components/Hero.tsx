@@ -19,7 +19,7 @@ const Hero = () => {
   };
 
   return (
-    <main className="max-w-screen-2xl mx-auto w-full h-[80vh] relative px-4 py-4 md:px-6">
+    <main className="max-w-screen-2xl mx-auto w-full h-[80vh] lg:h-[60vh] relative px-4 py-4 md:px-6">
       <div className="flex flex-col justify-center items-center w-full h-[80%] gap-8">
         {/* Working Title */}
         <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold">
