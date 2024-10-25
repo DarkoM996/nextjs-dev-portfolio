@@ -1,4 +1,5 @@
 import React from "react";
+/* eslint react/no-unescaped-entities */
 
 const CoffeeBarText = () => {
   return (
@@ -52,14 +53,12 @@ const CoffeeBarText = () => {
         time with a loved one etc.
       </p>
       <p className="text-xl leading-normal text-primary_customGray-900  dark:text-primary_customGray-500">
-        There were some signs of a potential investment, but{" "}
-        {`thatd& be at least
-        a decade away`}{" "}
-        if not more. One option would be to offer a way to book a table at a
-        customer specific wanted time etc. Overall duo to unique coffee drinking
-        culture, expensive distruction and just not enough interest, the
-        Starbucks like business method is not profitable at the moment. Here are
-        the designs that I came up with.
+        There were some signs of a potential investment, but that'd be at least
+        a decade away if not more. One option would be to offer a way to book a
+        table at a customer specific wanted time etc. Overall duo to unique
+        coffee drinking culture, expensive distruction and just not enough
+        interest, the Starbucks like business method is not profitable at the
+        moment. Here are the designs that I came up with.
       </p>
     </section>
   );
